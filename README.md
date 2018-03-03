@@ -26,7 +26,7 @@ $ npm install -g gulp-cli
 
 ```sh
 $ git clone https://github.com/elit-pe/EasyBuy.git
-$ cd csshortcut-app
+$ cd EasyBuy
 $ npm install
 ```
 **3 -** Run static server and livereload:
@@ -73,9 +73,9 @@ $ gulp server
 To keep better organization of releases we follow the [Semantic Versioning 2.0.0](http://semver.org/) guidelines.
 
 ## Contributing
-Find on our [roadmap](https://github.com/JohnsonMauro/cssshortcut-app/issues/1) the next steps of the project ;)
+Find on our [roadmap](https://github.com/elit-pe/EasyBuy/issues/1) the next steps of the project ;)
 <br>
-Want to contribute? [Follow these recommendations](https://github.com/JohnsonMauro/cssshortcut-app/blob/master/CONTRIBUTING.md).
+Want to contribute? [Follow these recommendations](https://github.com/elit-pe/EasyBuy/blob/master/CONTRIBUTING.md).
 
 ## License
-[MIT License](https://github.com/JohnsonMauro/cssshortcut-app/blob/master/LICENSE.md) ©
+[MIT License](https://github.com/elit-pe/EasyBuy/blob/master/LICENSE.md) ©
