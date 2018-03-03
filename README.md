@@ -2,7 +2,7 @@
 [![devDependencies Status](https://david-dm.org/JohnsonMauro/cssshortcut-app/dev-status.svg)](https://david-dm.org/JohnsonMauro/cssshortcut-app?type=dev)
 [![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/afonsopacifer/open-source-boilerplate/blob/master/LICENSE.md) 
 
-[![EasyBuy](https://www.transformagency.com/media/bl8-Make-it-Easy-for-Visitors-to-Buy-and-Increase-Conversions1.png)
+![EasyBuy](https://www.transformagency.com/media/bl8-Make-it-Easy-for-Visitors-to-Buy-and-Increase-Conversions1.png)
 
 # EasyBuy
 
