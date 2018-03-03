@@ -78,4 +78,4 @@ Find on our [roadmap](https://github.com/JohnsonMauro/cssshortcut-app/issues/1) 
 Want to contribute? [Follow these recommendations](https://github.com/JohnsonMauro/cssshortcut-app/blob/master/CONTRIBUTING.md).
 
 ## License
-[MIT License](https://github.com/JohnsonMauro/cssshortcut-app/blob/master/LICENSE.md) © [Johnson Mauro](https://johnsonmauro.github.io/)
+[MIT License](https://github.com/JohnsonMauro/cssshortcut-app/blob/master/LICENSE.md) ©
